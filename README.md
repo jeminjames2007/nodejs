@@ -1,1 +1,3 @@
-NodeJS Tutorial
+NodeJS
+
+npm init -y
